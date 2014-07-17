@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loan Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit_text">If you click one more back key, Application will be finished</string>
+    <string name="input_fields">Please, Input all fields.</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    
+    <string name="label_loans">Loans</string>
+    <string name="label_interest_rate">Interest</string>
+    <string name="label_loan_term">Term</string>
+    <string name="label_mounted_term">Mounted Term</string>
+    <string name="label_repayment_method">Repayment Method</string>
+    <string name="calculation">Calculation</string>
+    <string name="retry">Re-Calculation</string>
+    <string name="currency"> </string>
+    <string name="percent"> % (Year)</string>
+    <string name="months"> Months</string>
+    <string name="total_interest">Total Interest</string>
+    <string name="no">No.</string>
+    <string name="replayments">repayments</string>
+    <string name="principal">principal</string>
+    <string name="interest">interest</string>
+    <string name="remaining_amount">Remaining Amount</string>
+    <string name="total_principal">Total Principal</string>
+    <string name="total_amount">Toal</string>
+    
+    <string name="hint_text">
+        <![CDATA[
+		<div>*<<font color="blue"><strong> equal principal payments</strong></<font> : equal principal payments per time period.</div>
+		<div>*<<font color="blue"><strong> equal total payments</strong></<font> : equal total payments per time period.</div>
+		]]>
+	</string>
+    
+</resources>
