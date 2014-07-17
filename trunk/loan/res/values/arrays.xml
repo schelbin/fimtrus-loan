@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="repayment_method">
+        <item>equal principal payments</item>
+        <item>equal total payments</item>
+    </string-array>
+</resources>

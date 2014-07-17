@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="repayment_method">
+        <item>원금균등상환</item>
+        <item>원리금균등상환</item>
+        <item>원금만기일시상환</item>
+    </string-array>
+</resources>
