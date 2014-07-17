@@ -1,0 +1,14 @@
+int attr placeholderView 0x7f010001
+int attr syncView_gravity 0x7f010002
+int attr synchronizedView 0x7f010000
+int id center_horizontal 0x7f020001
+int id left 0x7f020000
+int id right 0x7f020002
+int[] styleable SynchronizedLinearLayout { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable SynchronizedLinearLayout_placeholderView 1
+int styleable SynchronizedLinearLayout_syncView_gravity 2
+int styleable SynchronizedLinearLayout_synchronizedView 0
+int[] styleable SynchronizedRelativeLayout { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable SynchronizedRelativeLayout_placeholderView 1
+int styleable SynchronizedRelativeLayout_syncView_gravity 2
+int styleable SynchronizedRelativeLayout_synchronizedView 0
